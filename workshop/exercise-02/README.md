@@ -1,6 +1,6 @@
 # Step 2 - Import a dialog-skill
 
-### Step 1: Select `Add dialog skill`
+### Step 1: Select `Add dialog skill` (ENSURE **DIALOG** SKILL)
 
 ![](../../images/dialog-skill-assistant-01.png)
 
