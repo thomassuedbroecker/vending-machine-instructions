@@ -1,4 +1,4 @@
-# Step 2 - Import a dialog-skill
+# Step 2 - Import a **dialog-skill**
 
 ### Step 1: Select `Add dialog skill` (ENSURE **DIALOG** SKILL)
 
